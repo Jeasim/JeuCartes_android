@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TPFinal_Cartes</string>
+    <string name="meilleurScore">Meilleur score : </string>
+    <string name="titre">97 Cartes</string>
+    <string name="btnDemarrer">Commencez une partie</string>
+    <string name="btnMenu">Quitter</string>
+    <string name="btnUndo">Undo</string>
+    <string name="tvScore">Score : </string>
+    <string name="tvChrono">Temps : </string>
+
+</resources>
